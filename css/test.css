@@ -1,0 +1,54 @@
+section {
+	margin: 30px 0;
+}
+
+hr {
+    background-color: #cccccc;
+}
+
+li {
+    list-style: none;
+}
+
+td {
+    vertical-align: top;
+}
+
+.info-buttons {
+    border: 0;
+    color: black;
+    padding: 3px;
+}
+
+.buttons {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.nowClick {
+    color : #6E63CF;
+}
+
+a {
+    text-decoration-line: none;
+    color : #cccccc;
+}
+
+.product_detail ul {
+    width: 100%;
+    overflow: hidden;
+}
+
+.product_detail ul li {
+    float: left;
+    text-align: left;
+}
+
+table {
+    border-style: none;
+    padding-left: 20px;
+}
+
+.table-padding {
+    padding-left: 20px;
+}
