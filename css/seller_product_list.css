@@ -1,0 +1,111 @@
+body {
+    display: table;
+    margin-left: auto; 
+    margin-right: auto;
+    font-family: 'SUITE';
+}
+
+header {
+    position: fixed;
+    top: 0; left: 0;
+    height: 100px;
+    width: 100%;
+    background-color: #ddd;
+}
+
+footer {
+    position: fixed;
+    bottom: 0; left: 0;
+    height: 100px;
+    width: 100%;
+    background-color: #ddd;
+}
+
+.main {
+    position: absolute;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 26px;
+    line-height: 32px;
+
+    color: #000000;
+}
+
+.myPage {
+    text-align: center;
+    background-color: #6E63CF;
+    font-size: 26px;
+    color: white;
+    padding: 30px 40px 30px 40px;
+}
+
+.menu {
+    float: left;
+    border: 1px solid black;
+}
+
+ul>li>a:nth-child(2) {
+    color: #6E63CF;
+  }
+
+li > a {
+    color : #cccccc;
+    font-size: medium;
+    font-weight: lighter;
+    text-decoration-line: none;
+}
+
+li {
+    list-style: none;
+    font-size: large;
+    font-weight: bold;
+    text-align: left;
+    padding-top: 3px;
+    padding-bottom: 3px;
+    padding-left: 0px;
+}
+
+.main_menu{
+   padding-top: 5px;
+   padding-left: 220px;
+}
+
+.top_menu {
+    border: 1px solid black;
+    width: 100px;
+    height: 30px;
+    text-align: center;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-top: 150px;
+    margin-bottom: 0px;
+}
+
+img {
+    width: 100px;
+    height: 130px;
+}
+
+.main_content {
+    margin-top: 150px;
+}
+
+table {
+    padding-bottom: 0px;
+}
+
+.banner {
+    text-align: center;
+    margin-top: 350px;
+    position: absolute;
+    border-radius: 10px ;
+    background-color: #6E63CF;
+    opacity: 0.7;
+    width: 195px;
+}
+ 
+
+
+
+
+
