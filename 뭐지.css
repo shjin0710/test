@@ -1,0 +1,1644 @@
+/* 판매자 마이페이지(마이페이지 누르자마자/상품관리-상품 목록 조회) - 송혜진 */
+
+position: relative;
+width: 1920px;
+height: 1080px;
+
+background: #FFFFFF;
+
+
+/* 상품관리 */
+
+position: absolute;
+width: 142px;
+height: 24px;
+left: 631px;
+top: 260px;
+
+font-family: 'SUITE';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 32px;
+
+color: #000000;
+
+
+
+/* 상품 목록 조회 */
+
+position: absolute;
+width: 102px;
+height: 22px;
+left: 824px;
+top: 324px;
+
+font-family: 'SUITE';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+
+color: #6E63CF;
+
+
+
+/* 상품등록 */
+
+position: absolute;
+width: 62px;
+height: 22px;
+left: 682px;
+top: 324px;
+
+font-family: 'SUITE';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Rectangle 70 */
+
+position: absolute;
+width: 165px;
+height: 46px;
+left: 631px;
+top: 312px;
+
+border-width: 1px 1px 0px 1px;
+border-style: solid;
+border-color: #CCCCCC;
+
+
+/* 상품 수정 요청 */
+
+position: absolute;
+width: 101px;
+height: 22px;
+left: 993px;
+top: 324px;
+
+font-family: 'SUITE';
+font-style: normal;
+font-weight: 400;
+font-size: 18px;
+line-height: 22px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Rectangle 71 */
+
+position: absolute;
+width: 165px;
+height: 46px;
+left: 961px;
+top: 312px;
+
+border-width: 1px 1px 0px 1px;
+border-style: solid;
+border-color: #CCCCCC;
+
+
+/* Line 12 */
+
+position: absolute;
+width: 540px;
+height: 0px;
+left: 961px;
+top: 358px;
+
+border: 1px solid #000000;
+
+
+/* Line 13 */
+
+position: absolute;
+width: 165px;
+height: 0px;
+left: 631px;
+top: 358px;
+
+border: 1px solid #000000;
+
+
+/* Rectangle 69 */
+
+position: absolute;
+width: 165px;
+height: 46px;
+left: 796px;
+top: 312px;
+
+border-width: 1px 1px 0px 1px;
+border-style: solid;
+border-color: #000000;
+
+
+/* Rectangle 72 */
+
+position: absolute;
+width: 870px;
+height: 46px;
+left: 631px;
+top: 377px;
+
+background: #FFFFFF;
+border: 1px solid #CCCCCC;
+
+
+/* 판매상태 */
+
+position: absolute;
+width: 49px;
+height: 30px;
+left: 650px;
+top: 386px;
+
+font-family: 'SUITE';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 30px;
+/* identical to box height, or 214% */
+
+color: #000000;
+
+
+
+/* Group 378 */
+
+position: absolute;
+width: 70px;
+height: 30px;
+left: 840px;
+top: 385px;
+
+
+
+/* Rectangle 69 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 70px;
+height: 28px;
+left: 840px;
+top: 386px;
+
+background: #FFFFFF;
+border: 1px solid #CCCCCC;
+
+
+/* 판매중 */
+
+position: absolute;
+width: 36px;
+height: 30px;
+left: 856px;
+top: 385px;
+
+font-family: 'SUITE';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 30px;
+/* identical to box height, or 214% */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Group 379 */
+
+position: absolute;
+width: 70px;
+height: 30px;
+left: 909px;
+top: 385px;
+
+
+
+/* Rectangle 69 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 70px;
+height: 28px;
+left: 909px;
+top: 386px;
+
+background: #FFFFFF;
+border: 1px solid #CCCCCC;
+
+
+/* 판매완료 */
+
+position: absolute;
+width: 48px;
+height: 30px;
+left: 919px;
+top: 385px;
+
+font-family: 'SUITE';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 30px;
+/* identical to box height, or 214% */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Group 375 */
+
+position: absolute;
+width: 70px;
+height: 30px;
+left: 771px;
+top: 385px;
+
+
+
+/* Rectangle 69 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 70px;
+height: 28px;
+left: 771px;
+top: 386px;
+
+background: #FFFFFF;
+border: 1px solid #000000;
+
+
+/* 전체 */
+
+position: absolute;
+width: 25px;
+height: 30px;
+left: 793.31px;
+top: 385px;
+
+font-family: 'SUITE';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 30px;
+/* identical to box height, or 214% */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Rectangle 78 */
+
+position: absolute;
+width: 870px;
+height: 33px;
+left: 631px;
+top: 442px;
+
+background: #F5F5F5;
+border-width: 1px 0px;
+border-style: solid;
+border-color: #000000;
+
+
+/* 공연 이미지 */
+
+position: absolute;
+width: 55px;
+height: 30px;
+left: 648px;
+top: 440px;
+
+font-family: 'SUITE';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 30px;
+/* identical to box height, or 250% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* 상품명 */
+
+position: absolute;
+width: 52px;
+height: 15px;
+left: 883px;
+top: 451px;
+
+font-family: 'SUITE';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 30px;
+/* or 250% */
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* 판매기간 */
+
+position: absolute;
+width: 69px;
+height: 19px;
+left: 1275px;
+top: 444px;
+
+font-family: 'SUITE';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 30px;
+/* or 250% */
+text-align: center;
+
+color: #000000;
+
+
+
+/* 잔여석 */
+
+position: absolute;
+width: 51.89px;
+height: 30px;
+left: 1122px;
+top: 443px;
+
+font-family: 'SUITE';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 30px;
+/* identical to box height, or 250% */
+text-align: center;
+
+color: #000000;
+
+
+
+/* Line 21 */
+
+position: absolute;
+width: 870px;
+height: 0px;
+left: 631px;
+top: 593px;
+
+border: 1px solid #E5E5E5;
+
+
+/* image 16 */
+
+position: absolute;
+width: 77px;
+height: 103px;
+left: 636px;
+top: 482px;
+
+background: url(image.png);
+
+
+/* STAYC 1ST WORLD TOUR [ TEENFRESH ] in SEOUL */
+
+position: absolute;
+width: 331px;
+height: 17px;
+left: 752px;
+top: 528px;
+
+font-family: 'SUITE';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* 20 */
+
+position: absolute;
+width: 18px;
+height: 17px;
+left: 1138px;
+top: 527px;
+
+font-family: 'SUITE';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* 2023년 9월 11일 18시 00분 ~ 2023년 09월 23일 23시 59분까지 */
+
+position: absolute;
+width: 197px;
+height: 34px;
+left: 1209px;
+top: 523px;
+
+font-family: 'SUITE';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Line 22 */
+
+position: absolute;
+width: 870px;
+height: 0px;
+left: 631px;
+top: 712px;
+
+border: 1px solid #E5E5E5;
+
+
+/* image 17 */
+
+position: absolute;
+width: 77px;
+height: 103px;
+left: 636px;
+top: 601px;
+
+background: url(image.png);
+
+
+/* STAYC 1ST WORLD TOUR [ TEENFRESH ] in SEOUL */
+
+position: absolute;
+width: 331px;
+height: 17px;
+left: 752px;
+top: 647px;
+
+font-family: 'SUITE';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* 500 */
+
+position: absolute;
+width: 28px;
+height: 17px;
+left: 1133px;
+top: 646px;
+
+font-family: 'SUITE';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* 2023년 9월 11일 18시 00분 ~ 2023년 09월 23일 23시 59분까지 */
+
+position: absolute;
+width: 197px;
+height: 34px;
+left: 1209px;
+top: 642px;
+
+font-family: 'SUITE';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Line 23 */
+
+position: absolute;
+width: 870px;
+height: 0px;
+left: 631px;
+top: 831px;
+
+border: 1px solid #E5E5E5;
+
+
+/* image 18 */
+
+position: absolute;
+width: 77px;
+height: 103px;
+left: 636px;
+top: 720px;
+
+background: url(image.png);
+
+
+/* STAYC 1ST WORLD TOUR [ TEENFRESH ] in SEOUL */
+
+position: absolute;
+width: 331px;
+height: 17px;
+left: 752px;
+top: 766px;
+
+font-family: 'SUITE';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* 7 */
+
+position: absolute;
+width: 8px;
+height: 17px;
+left: 1143px;
+top: 765px;
+
+font-family: 'SUITE';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* 2023년 9월 11일 18시 00분 ~ 2023년 09월 23일 23시 59분까지 */
+
+position: absolute;
+width: 197px;
+height: 34px;
+left: 1209px;
+top: 761px;
+
+font-family: 'SUITE';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+
+color: #000000;
+
+
+
+/* image 19 */
+
+position: absolute;
+width: 279px;
+height: 21px;
+left: 926px;
+top: 873px;
+
+background: url(image.png);
+
+
+/* Group 254 */
+
+position: absolute;
+width: 91px;
+height: 35px;
+left: 1423px;
+top: 838px;
+
+
+
+/* Rectangle 73 */
+
+position: absolute;
+width: 68px;
+height: 35px;
+left: 1434px;
+top: 838px;
+
+background: #6E63CF;
+border-radius: 10px;
+
+
+/* 상품등록 */
+
+position: absolute;
+width: 91px;
+height: 27px;
+left: 1423px;
+top: 846px;
+
+font-family: 'SUITE';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 17px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Group 411 */
+
+position: absolute;
+width: 68.85px;
+height: 339px;
+left: 1432px;
+top: 444px;
+
+
+
+/* 판매상태 */
+
+position: absolute;
+width: 68.85px;
+height: 30px;
+left: 1432px;
+top: 444px;
+
+font-family: 'SUITE';
+font-style: normal;
+font-weight: 700;
+font-size: 12px;
+line-height: 30px;
+/* identical to box height, or 250% */
+text-align: center;
+
+color: #000000;
+
+
+
+/* 판매중 */
+
+position: absolute;
+width: 36px;
+height: 17px;
+left: 1448px;
+top: 528px;
+
+font-family: 'SUITE';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* 승인대기 */
+
+position: absolute;
+width: 48px;
+height: 17px;
+left: 1444px;
+top: 647px;
+
+font-family: 'SUITE';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* 판매완료 */
+
+position: absolute;
+width: 52px;
+height: 17px;
+left: 1442px;
+top: 766px;
+
+font-family: 'SUITE';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+display: flex;
+align-items: center;
+text-align: center;
+
+color: #000000;
+
+
+
+/* Group 483 */
+
+position: absolute;
+width: 174px;
+height: 567px;
+left: 420px;
+top: 229px;
+
+
+
+/* Group 182 */
+
+position: absolute;
+width: 174px;
+height: 79px;
+left: 420px;
+top: 717px;
+
+
+
+/* Rectangle 56 */
+
+position: absolute;
+width: 174px;
+height: 79px;
+left: 420px;
+top: 717px;
+
+background: rgba(110, 99, 207, 0.7);
+border-radius: 5px;
+
+
+/* 파트너스 전용 고객센터 1588-4646 평일/주말 11:00 ~ 24:00 */
+
+position: absolute;
+width: 102px;
+height: 45px;
+left: 456px;
+top: 734px;
+
+font-family: 'NanumGothic';
+font-style: normal;
+font-weight: 800;
+font-size: 10px;
+line-height: 10px;
+text-align: center;
+
+color: #FFFFFF;
+
+
+
+/* Group 481 */
+
+position: absolute;
+width: 174px;
+height: 479px;
+left: 420px;
+top: 229px;
+
+
+
+/* Group 105 */
+
+position: absolute;
+width: 174px;
+height: 479px;
+left: 420px;
+top: 229px;
+
+
+
+/* Rectangle 57 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 174px;
+height: 479px;
+left: 420px;
+top: 229px;
+
+border: 1px solid #000000;
+
+
+/* Group 104 */
+
+position: absolute;
+width: 172px;
+height: 82px;
+left: 421px;
+top: 230px;
+
+
+
+/* Rectangle 58 */
+
+position: absolute;
+width: 172px;
+height: 82px;
+left: 421px;
+top: 230px;
+
+background: #6E63CF;
+
+
+/* 마이페이지 */
+
+position: absolute;
+width: 112px;
+height: 32px;
+left: 451px;
+top: 257px;
+
+font-family: 'SUITE';
+font-style: normal;
+font-weight: 700;
+font-size: 26px;
+line-height: 32px;
+
+color: #FFFFFF;
+
+
+
+/* Group 480 */
+
+position: absolute;
+width: 160px;
+height: 375px;
+left: 427px;
+top: 323px;
+
+
+
+/* Group 270 */
+
+position: absolute;
+width: 80px;
+height: 53px;
+left: 434px;
+top: 552px;
+
+
+
+/* 문의관리 */
+
+position: absolute;
+width: 62px;
+height: 22px;
+left: 434px;
+top: 552px;
+
+font-family: 'SUITE';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+
+
+/* 문의 목록 조회 */
+
+position: absolute;
+width: 78px;
+height: 25px;
+left: 436px;
+top: 580px;
+
+font-family: 'SUITE';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 25px;
+/* identical to box height, or 179% */
+
+color: #808080;
+
+
+
+/* Line 19 */
+
+position: absolute;
+width: 160px;
+height: 0px;
+left: 427px;
+top: 538px;
+
+border: 1px solid #CCCCCC;
+
+
+/* Line 35 */
+
+position: absolute;
+visibility: hidden;
+width: 160px;
+height: 0px;
+left: 427px;
+top: 424px;
+
+border: 1px solid #CCCCCC;
+
+
+/* Line 34 */
+
+position: absolute;
+width: 160px;
+height: 0px;
+left: 427px;
+top: 610px;
+
+border: 1px solid #CCCCCC;
+
+
+/* Group 273 */
+
+position: absolute;
+width: 77px;
+height: 78px;
+left: 434px;
+top: 620px;
+
+
+
+/* 회원정보 */
+
+position: absolute;
+width: 62px;
+height: 22px;
+left: 434px;
+top: 620px;
+
+font-family: 'SUITE';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+
+
+/* 회원정보 수정 회원탈퇴 */
+
+position: absolute;
+width: 75px;
+height: 50px;
+left: 436px;
+top: 648px;
+
+font-family: 'SUITE';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 25px;
+/* or 179% */
+
+color: #808080;
+
+
+
+/* Group 484 */
+
+position: absolute;
+width: 151px;
+height: 96px;
+left: 434px;
+top: 323px;
+
+
+
+/* Group 268 */
+
+position: absolute;
+width: 80px;
+height: 96px;
+left: 434px;
+top: 323px;
+
+
+
+/* 상품관리 */
+
+position: absolute;
+width: 62px;
+height: 22px;
+left: 434px;
+top: 323px;
+
+font-family: 'SUITE';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+
+
+/* 상품등록 상품 목록 조회 상품 수정 요청 */
+
+position: absolute;
+width: 78px;
+height: 68px;
+left: 436px;
+top: 351px;
+
+font-family: 'SUITE';
+font-style: normal;
+font-weight: 700;
+font-size: 14px;
+line-height: 25px;
+/* or 179% */
+
+color: #6E63CF;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 30.26%;
+right: 69.53%;
+top: 33.33%;
+bottom: 65.97%;
+
+border: 2px solid #6E63CF;
+
+
+/* Group 100 */
+
+position: absolute;
+width: 81px;
+height: 95px;
+left: 436px;
+top: 433px;
+
+
+
+/* 매출관리 */
+
+position: absolute;
+width: 62px;
+height: 22px;
+left: 436px;
+top: 433px;
+
+font-family: 'SUITE';
+font-style: normal;
+font-weight: 700;
+font-size: 18px;
+line-height: 22px;
+
+color: #000000;
+
+
+
+/* 주문/구매 현황 매출 현황 매출정산 내역 */
+
+position: absolute;
+width: 81px;
+height: 66px;
+left: 436px;
+top: 462px;
+
+font-family: 'SUITE';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 22px;
+/* or 157% */
+
+color: #808080;
+
+
+
+/* 헤더 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+position: absolute;
+width: 1920px;
+height: 185px;
+left: 0px;
+top: 0px;
+
+
+
+/* Frame 293 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 10px 420px;
+gap: 10px;
+
+width: 1920px;
+height: 40px;
+
+background: #F8F9FA;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* 로그아웃 | 마이페이지 | 고객센터 */
+
+width: 230px;
+height: 20px;
+
+font-family: 'SUITE';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+text-align: right;
+
+color: #9F9F9F;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 291 */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px 420px;
+gap: 10px;
+
+width: 997px;
+height: 57px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* image 2 */
+
+width: 157px;
+height: 57px;
+
+background: url(image.png);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Frame 294 */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 4px 420px;
+gap: 42px;
+
+width: 1927px;
+height: 40px;
+
+background: #6E63CF;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* 홈 */
+
+width: 16px;
+height: 22px;
+
+font-family: 'SUITE';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 22px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* 뮤지컬 */
+
+width: 47px;
+height: 22px;
+
+font-family: 'SUITE';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 22px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* 콘서트 */
+
+width: 47px;
+height: 22px;
+
+font-family: 'SUITE';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 22px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* 연극 */
+
+width: 32px;
+height: 22px;
+
+font-family: 'SUITE';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 22px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* 클래식 / 무용 */
+
+width: 95px;
+height: 22px;
+
+font-family: 'SUITE';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 22px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* 전시 / 행사 */
+
+width: 79px;
+height: 22px;
+
+font-family: 'SUITE';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 22px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Line 8 */
+
+width: 15px;
+height: 0px;
+
+border: 1px solid #FFFFFF;
+transform: rotate(90deg);
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+flex-grow: 0;
+
+
+/* 랭킹 */
+
+width: 32px;
+height: 22px;
+
+font-family: 'SUITE';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 22px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 7;
+flex-grow: 0;
+
+
+/* 지역 */
+
+width: 32px;
+height: 22px;
+
+font-family: 'SUITE';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 22px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 8;
+flex-grow: 0;
+
+
+/* 공연장 */
+
+width: 47px;
+height: 22px;
+
+font-family: 'SUITE';
+font-style: normal;
+font-weight: 800;
+font-size: 18px;
+line-height: 22px;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 9;
+flex-grow: 0;
+
+
+/* Search bar */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 2.05935px 10px;
+gap: 92px;
+
+width: 240px;
+height: 32px;
+
+/* Shades/White */
+background: #FFFFFF;
+border: 1px solid #E7EAEE;
+border-radius: 12px;
+
+/* Inside auto layout */
+flex: none;
+order: 10;
+flex-grow: 0;
+
+
+/* 검색어를 입력해주세요 */
+
+width: 114px;
+height: 15px;
+
+font-family: 'Inter';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+/* identical to box height */
+
+color: #808080;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Icons */
+
+width: 16px;
+height: 16px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Shape */
+
+position: absolute;
+left: 12.5%;
+right: 16.67%;
+top: 12.5%;
+bottom: 16.67%;
+
+background: #808080;
+
+
+/* 푸터 */
+
+position: absolute;
+width: 1920px;
+height: 133px;
+left: 0px;
+bottom: 0px;
+
+
+
+/* Group 278 */
+
+position: absolute;
+width: 948px;
+height: 124px;
+left: 420px;
+top: 956px;
+
+
+
+/* 회사소개 | 개인정보 처리방침 | 청소년 보호정책 | 위치기반 서비스 이용약관 | 이용약관 | 티켓판매안내 | 고객센터 | 공지사항 */
+
+position: absolute;
+width: 948px;
+height: 9.81px;
+left: 420px;
+top: 956px;
+
+font-family: 'SUITE';
+font-style: normal;
+font-weight: 400;
+font-size: 12px;
+line-height: 15px;
+
+color: #000000;
+
+
+
+/* Copyright ⓒ OPENRUN Corporation. All rights reserved. */
+
+position: absolute;
+width: 408px;
+height: 24.52px;
+left: 420px;
+top: 1055.48px;
+
+font-family: 'SUITE';
+font-style: normal;
+font-weight: 400;
+font-size: 10px;
+line-height: 12px;
+
+color: #C4C4C4;
+
+
+
+/* 오픈런 주식회사 주소 : 서울특별시 강남구 강남대로 어딘가, 멋진빌딩(12345) | 대표이사 : 윤황집 | 사업자번호 : 144-00-00000 고객센터 : 1588-8282 | helpmeplz@openrun.co.kr | 통신판매업 신고번호 : 제 2023-경기성남-0000호 | 사업자정보확인 | 개인정보보호 책임자 : 최혜빈 */
+
+position: absolute;
+width: 853px;
+height: 48.34px;
+left: 420px;
+top: 991.73px;
+
+font-family: 'SUITE';
+font-style: normal;
+font-weight: 800;
+font-size: 10px;
+line-height: 12px;
+
+color: #000000;
+
+
+
+/* Group 275 */
+
+position: absolute;
+width: 1920px;
+height: 35px;
+left: 0px;
+top: 947px;
+
+
+
+/* Line 36 */
+
+position: absolute;
+width: 1920px;
+height: 0px;
+left: 0px;
+top: 947px;
+
+border: 1px solid #000000;
+
+
+/* Line 37 */
+
+position: absolute;
+width: 1920px;
+height: 0px;
+left: 0px;
+top: 982px;
+
+border: 1px solid #DADADA;
