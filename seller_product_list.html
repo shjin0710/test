@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>상세 페이지</title>
+    <link rel="stylesheet" href="css/test.css">
+</head>
+<body>
+    <header>
+        <h2>아직 입력내용 없음~</h2>
+    </header>
+	<section>
+		<div id="">
+			<div class="">
+				<h3>FULL LIST OF BOOKS</h3>
+			</div>
+			<div class="book_list">
+				<table>
+					<thead>
+						<tr>
+							<th>공연 이미지</th>
+							<th>상품명</th>
+							<th>잔여석</th>
+							<th>판매기간(예매 시작 일자, 예매 종료 일자)</th>
+							<th>판매상태</th>
+							<!-- 예매종료일자가 지나면 자동으로 판매종료
+							예매 시작 일자부터 예매 종료 일자까지 판매중
+							예매 시작 일자 전까지는 상품 등록 대기중
+							관리자가 상품 승인을 안해준 상태면 승인대기가 뜨게 해야함 -->
+						</tr>
+					</thead>
+					<tbody>
+						<c:forEach var="item" items="${bookVos}">
+							<tr>
+								<td>
+								<c:url value='/book/admin/bookDetail' var='detail_url'>
+									<c:param name='b_no' value='${item.b_no}'/>
+								</c:url>
+								<a href="${detail_url}">${item.b_name}</a>
+								</td>
+								<td>${item.b_author}</td>
+								<td>${item.b_publisher}</td>
+								<td>${item.b_publish_year}</td>
+								<td>${item.b_isbn}</td>
+								<td>${item.b_call_number}</td>
+								<td>
+								<c:choose>
+									<c:when test="${item.b_rantal_able eq 0}"> <c:out value="대출중" /> </c:when>
+									<c:when test="${item.b_rantal_able eq 1}"> <c:out value="대출가능" /> </c:when>
+									<c:otherwise> <c:out value="대출중" /> </c:otherwise>
+								</c:choose>
+								</td>
+							</tr>
+						</c:forEach>
+					</tbody>
+				</table>
+			</div>
+		</div>
+	</section>
+    <footer>
+        <h2>여기도 아직 입력내용 없삼요</h2>
+    </footer>
+</body>
+</html>
